@@ -1,0 +1,1 @@
+256108961160.dkr.ecr.ap-south-1.amazonaws.com/paytm-detector-large

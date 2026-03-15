@@ -50,3 +50,8 @@ Thumbs.db
 # Temporary files
 /tmp/
 temp/
+
+# Test files
+test_*.py
+postman_collection.json
+test_setup.sh

@@ -8,7 +8,7 @@ from ultralytics import YOLO
 log = logging.getLogger("uvicorn.error")
 
 CLASS_NAMES = {0: "fully_visible", 1: "partially_visible"}
-WEIGHTS_PATH = Path("/app/weights/best.pt")
+WEIGHTS_PATH = Path("weights/best.pt")
 
 class Detector:
     def __init__(self):
