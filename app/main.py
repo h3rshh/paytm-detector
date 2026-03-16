@@ -5,6 +5,8 @@ import time
 import numpy as np
 import logging
 
+print("Libraries imported")
+
 from fastapi import FastAPI, File, UploadFile, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from PIL import Image
